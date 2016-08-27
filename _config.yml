@@ -1,4 +1,3 @@
-layout_spectrum: 0.16856879461556673
 typography_spectrum: 0.3817370815668255
 color:
   brandStrength: 0.6225279266946018
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.16856879461556673
 name: Fitness Instructor - Ductor
+description: We will instruct you how to be fit!
