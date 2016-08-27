@@ -12,4 +12,8 @@ color:
     - '#C7CAD1'
 layout_spectrum: 0.16856879461556673
 name: Fitness Instructor - Ductor
+navigation:
+  - name: Guides
+    url: 'http://fitnessductor.com'
+    type: external
 description: We will instruct you how to be fit!
